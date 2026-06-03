@@ -66,9 +66,9 @@ The dashboard provides stakeholders with an interactive platform to monitor KPIs
 
 Shubham Solse
 
-LinkedIn: [<Your LinkedIn Profile URL>](https://www.linkedin.com/in/shubham-solse/)
+LinkedIn: https://www.linkedin.com/in/shubham-solse/
 
-GitHub: [<Your GitHub Profile URL>](https://github.com/shubhamsolse04/)
+GitHub: https://github.com/shubhamsolse04/)
 
 
 
